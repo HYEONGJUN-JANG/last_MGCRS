@@ -130,7 +130,6 @@ dmypy.json
 model_cache/
 data/
 logs/
-models/
 .idea/
 *.bin
 *.pt
@@ -138,8 +137,6 @@ models/
 !/data/
 !/logs/
 !/model_cache/
-!/models/
-!/model_play/
 !/model_save/
 !/output/
 !/temp_code/
@@ -151,7 +148,6 @@ models/
 !/data/*
 !/logs/*
 !/model_cache/*
-!/model_play/*
 !/model_save/*
 !/output/*
 !/temp_code/*
