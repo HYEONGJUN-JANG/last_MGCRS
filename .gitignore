@@ -146,3 +146,11 @@ models/
 *.pt
 *.pkl
 *.pth
+*.txt
+!/data/*
+!/logs/*
+!/model_cache/*
+!/model_play/*
+!/model_save/*
+!/output/*
+!/temp_code/*
