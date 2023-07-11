@@ -147,6 +147,7 @@ models/
 *.pkl
 *.pth
 *.txt
+*.json
 !/data/*
 !/logs/*
 !/model_cache/*
@@ -154,3 +155,7 @@ models/
 !/model_save/*
 !/output/*
 !/temp_code/*
+!/model_cache/
+model_cache/
+
+
